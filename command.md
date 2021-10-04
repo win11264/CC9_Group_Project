@@ -1,1 +1,2 @@
 - `git merge --no-ff {ชื่อ branch}` คือ ถ้ามี --no-ff จะเห็นเฉพาะ branch หลักที่ถูก merge เท่านั้น ไม่เห็น branch ย่อยที่สั่งmerge เข้ามา เช่นในที่นี้จะเห็นเพียง branch develop ไม่เห็น branch branch feature
+- `git branch -d {ชื่อ branch}` delete branch
